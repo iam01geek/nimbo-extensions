@@ -1,0 +1,23 @@
+{
+  "name": "Nimbo Extensions Store",
+  "version": "1.0.0",
+  "description": "Nimbo 扩展仓库",
+  "extensions": [
+    {
+      "id": "programmer-toolbox",
+      "name": "程序员实用工具箱",
+      "version": "1.0.0",
+      "description": "包含各类程序员常用的实用工具",
+      "author": "iam01geek"
+    },
+    {
+      "id": "bentopdf",
+      "name": "Bento PDF",
+      "version": "1.0.0",
+      "description": "PDF 工具集",
+      "author": "iam01geek",
+      "type": "external",
+      "downloadUrl": "https://github.com/iam01geek/bentopdf/releases/download/v1.15.4/bentopdf.nbx"
+    }
+  ]
+}
