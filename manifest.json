@@ -18,6 +18,14 @@
       "author": "iam01geek",
       "type": "external",
       "downloadUrl": "https://github.com/iam01geek/bentopdf/releases/download/v1.15.4/bentopdf.nbx"
+    },
+    {
+      "id": "it-tools",
+      "name": "it-tools",
+      "version": "v2024.10.22-7ca5933",
+      "description": "万能的开发者工具箱",
+      "author": "iam01geek",
+      "type": "external"
     }
   ]
 }
