@@ -26,6 +26,14 @@
       "description": "万能的开发者工具箱",
       "author": "CorentinTh",
       "type": "external"
+    },
+    {
+      "id": "svgomg",
+      "name": "SVGO",
+      "version": "v1.16.0",
+      "description": "SVG 优化器",
+      "author": "jakearchibald",
+      "type": "external"
     }
   ]
 }
