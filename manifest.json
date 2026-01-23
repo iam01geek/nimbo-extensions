@@ -51,6 +51,14 @@
       "author": "omni-media",
       "type": "external",
       "downloadUrl": "https://github.com/iam01geek/omniclip/releases/download/v1.1.3/omniclip.nbx"
+    },
+    {
+      "id": "video-to-gif",
+      "name": "视频转 GIF 动图",
+      "version": "v0.1.0",
+      "description": "简单快捷的将视频转为 GIF 动图",
+      "author": "mryhryki",
+      "type": "external"
     }
   ]
 }
