@@ -5,10 +5,10 @@
   "extensions": [
     {
       "id": "programmer-toolbox",
-      "name": "程序员实用工具箱",
+      "name": "it 工具箱",
       "version": "v1.0.0",
-      "description": "包含各类程序员常用的实用工具",
-      "author": "iam01geek"
+      "description": "包含各类程序员常用工具的内部指令集合",
+      "author": "零一极客"
     },
     {
       "id": "bentopdf",
